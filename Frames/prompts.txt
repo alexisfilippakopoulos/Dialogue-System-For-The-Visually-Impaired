@@ -1,0 +1,43 @@
+intro:Hello, this is the EasyWash Voice Assistant. I will be posing you questions and expecting your answer in between this sound.
+assistance: Would you like me to walk you through the process?
+repeat:Sorry, I did not quite catch that. Do you mind repeating your answer please in a more clear voice or closer to the microphone? Thank you.
+1_back_0:
+2_back_1:Hello, this is the EasyWash Voice Assistant. Do you wish me to help you?
+3_back_2:Should I recommend you a cycle, or use your own?
+4_back_3:How much time do you have available. Less than one hour? Less than two hours? or, 3 plus hours?
+5_back_4:What is the prominent color of your laundry? Is it light,? dark,?, or mixed,?
+6_back_5:What about the garment type? Is it mostly sensitive,? is it mostly plain,? or is it mostly heavy,?
+7_back_6:What about the size of your laundry? Is it relatively small,? medium,? or large,?
+answ_1_no:Okay then,! If you need me return to the previous window.
+answ_1_yes:Should I recommend you a cycle, or use your own?
+answ_2_no:Okay. I will walk you through choosing your own cycle. What is your desired duration? Half an hour,? Fourty five minutes,? One hour,? An hour and a half,? Two hours,? or Three hours,?
+explain_2: You can choose your own cycle settings or allow me to recommend you a cycle based on your laundry.
+answ_2_yes:Alright then, if you need to go to the previous question, or to start over, or any further explanation please say so. Now, let's Start by how much time do you have available. Less than one hour? Less than two hours? or, 3 plus hours?
+answ_3_0:So you have less than an hour.  What is the prominent color of your laundry? Is it light,? dark,?, or mixed,?
+answ_3_1:So you have less than two hours.  What is the prominent color of your laundry? Is it light,? dark,?, or mixed,?
+answ_3_2:So time is not a problem.  What is the prominent color of your laundry? Is it light,? dark,?, or mixed,?
+explain_3:If you are on a time crunch pick one of the first two options. If not, choose the third.
+answ_4_light:Light colored it is ! What about the garment type? Is it mostly sensitive,? is it normal,? or is it heavy,?
+answ_4_dark:Dark colored it is ! What about the garment type? Is it mostly sensitive,? is it normal,? or is it heavy,?
+answ_4_mixed:Mixed colored it is ! What about the garment type? Is it mostly sensitive,? is it normal,? or is it heavy,?
+explain_4: Light refers to white, beige, light gray and other soft colors. Dark refers to black, blue, brown and darker colors. If your laundry falls into both categories, it is mixed.
+answ_5_sensitive:So, you have mostly sensitive garments ! What about the size of your laundry? Is it relatively small,? medium,? or large,?
+answ_5_normal:So, you have mostly plain garments ! What about the size of your laundry? Is it relatively small,? medium,? or large,?
+answ_5_heavy:So, you have mostly heavy garments ! What about the size of your laundry? Is it relatively small,? medium,? or large,?
+explain_5: Sensitive refers to materials such as silk, wool and cashmere. Normal refers to cotton, polyester and most garment types in general. Heavy refers to jackets, coats, blankets and other similar heavy garments.
+answ_6_small:Small laundry! This will be quick! 
+answ_6_medium:Medium laundry! Just enough for a wash! 
+answ_6_large:Large laundry! This is the best practice!
+explain_6: It is just an estimate of your laundry's size relative to the machine's capacity.
+answ_7_30: Thirty minutes it is ! What about the temperature? Would you like thirty,? fourty,? or sixty, degrees?
+answ_7_45: Fourty five minutes it is ! What about the temperature? Would you like thirty,? fourty,? or sixty, degrees?
+answ_7_60: One hour it is ! What about the temperature? Would you like thirty,? fourty,? or sixty,?
+answ_7_90: An hour and a half it is ! What about the temperature? Would you like thirty,? fourty,? or sixty, degrees?
+answ_7_120: Two hours it is ! What about the temperature? Would you like thirty,? fourty,? or sixty, degrees?
+answ_7_180: Three hours it is ! What about the temperature? Would you like thirty,? fourty,? or sixty, degrees?
+answ_8_30: Thirty degrees it is ! Do you want a sensitive,? a normal,? or a heavy cycle,?
+answ_8_40: Fourty degrees it is ! Do you want a sensitive,? a normal,? or a heavy cycle,?
+answ_8_60: Sixty degrees it is ! Do you want a sensitive,? a normal,? or a heavy cycle,?
+answ_9_sensitive: Sensitive cycle it is !
+answ_9_normal: Normal cycle it is !
+answ_9_heavy: Heavy cycle it is !

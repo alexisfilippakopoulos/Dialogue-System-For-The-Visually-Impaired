@@ -1,0 +1,8 @@
+pyaudio==0.2.13
+tiktoken==0.3.3
+git+https://github.com/openai/whisper.git
+pyttsx3==2.90
+opencv-python==4.7.0.72
+simpleaudio==1.0.4
+git+https://github.com/ML-KULeuven/pyswip
+PyQt5==5.15.9
